@@ -1,2 +1,2 @@
 nginx
-ghost
+cri-dockerd
